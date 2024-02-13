@@ -43,6 +43,10 @@
 <img src="dog.jpg" width="300" height="170" border="5px solid">
 
 ## Ссылки
+```
+[Текст ссылки](https://www.example.com)
+```
+**[Текст ссылки](https://www.example.com)**
 
 ## Цитаты
 
